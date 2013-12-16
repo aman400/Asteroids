@@ -30,5 +30,4 @@ Copy and paste code in codeskulptor and click on play button to play.
 
                                 OR
 
-To Open this link ![click here](http://www.codeskulptor.org/#user27_ValOKdE1fZ1JZUu.py)
-click play button to play.
+Open this link http://www.codeskulptor.org/#user27_ValOKdE1fZ1JZUu.py
