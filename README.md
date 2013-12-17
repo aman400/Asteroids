@@ -36,4 +36,4 @@ Open this link http://www.codeskulptor.org/#user27_ValOKdE1fZ1JZUu.py
 SCREENSHOTS:
 =============
 
-![Screenshot 1](https://raw.github.com/aman400/Asteroids/blob/master/Screenshots/Screenshot%20from%202013-12-15%2018:14:11.png)
+![Screenshot 1](https://raw.github.com/aman400/Asteroids/master/Screenshots/Screenshot%20from%202013-12-15%2018:13:34.png)
