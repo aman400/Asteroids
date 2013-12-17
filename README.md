@@ -37,3 +37,7 @@ SCREENSHOTS:
 =============
 
 ![Screenshot 1](https://raw.github.com/aman400/Asteroids/master/Screenshots/Screenshot%20from%202013-12-15%2018:13:34.png)
+![Screenshot 2](https://raw.github.com/aman400/Asteroids/master/Screenshots/Screenshot%20from%202013-12-15%2018:14:11.png)
+![Screenshot 3](https://raw.github.com/aman400/Asteroids/master/Screenshots/Screenshot%20from%202013-12-15%2018:14:17.png)
+![Screenshot 4](https://raw.github.com/aman400/Asteroids/master/Screenshots/Screenshot%20from%202013-12-15%2018:14:21.png)
+![Screenshot 5](https://raw.github.com/aman400/Asteroids/master/Screenshots/Screenshot%20from%202013-12-15%2018:14:45.png)
