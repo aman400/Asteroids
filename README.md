@@ -11,10 +11,13 @@ Open this link to read more http://en.wikipedia.org/wiki/Asteroids_%28video_game
 CONTROLS:
 ==========
 
-Up arrow key to throttle
-Left arrow key to turn left
-Right arrow to turn right
-space bar key to fire
+Up arrow key to throttle.
+
+Left arrow key to turn left.
+
+Right arrow to turn right.
+
+space bar key to fire.
 
 TECHNICAL SPECIFICATION:
 =========================
