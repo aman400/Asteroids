@@ -22,8 +22,8 @@ space bar key to fire.
 TECHNICAL SPECIFICATION:
 =========================
 
-Requires Working Internet connection.
-Requres Google Chrome (Works in other Browsers too but for best results use google chrome)
+Requires working internet connection.
+Requires Google Chrome (Works in other Browsers too but for best results use google chrome)
 
 
 HOW TO RUN:
