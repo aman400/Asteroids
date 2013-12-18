@@ -15,7 +15,7 @@ Up arrow key to throttle.
 
 Left arrow key to turn left.
 
-Right arrow to turn right.
+Right arrow key to turn right.
 
 space bar key to fire.
 
